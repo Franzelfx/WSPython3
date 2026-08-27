@@ -1,0 +1,8 @@
+[submodule "cli-weather-dashboard"]
+	path = cli-weather-dashboard
+	url = git@github.com:Franzelfx/cli-weather-dashboard.git
+	branch = main
+[submodule "cli-task-manager"]
+	path = cli-task-manager
+	url = git@github.com:Franzelfx/cli-task-manager.git
+	branch = main
