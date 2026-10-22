@@ -1,0 +1,16 @@
+[project]
+name = "neural-net"
+version = "0.1.0"
+description = "Workshop-Projekt: Ein Mini-ResNet für CIFAR-10 mit Keras"
+# TensorFlow 2.18 liefert Wheels nur bis Python 3.12.
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    # Nicht auf 2.19+ anheben: tensorflow-metal 1.2.0 lässt sich damit
+    # nicht mehr laden (Fehler "Library not loaded: _pywrap_tensorflow_internal.so").
+    "tensorflow==2.18.*",
+    # GPU-Beschleunigung über Metal, nur auf Macs mit Apple Silicon.
+    "tensorflow-metal==1.2.0; sys_platform == 'darwin' and platform_machine == 'arm64'",
+    "keras>=3.0",
+    # Für utils.plot_model (zusätzlich wird Graphviz benötigt: brew install graphviz).
+    "pydot",
+]

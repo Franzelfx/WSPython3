@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "beschreibung": "Fiktive Beispieldaten: Produktionszahlen von Automobilzulieferern für Elektroauto-Komponenten (weltweit)",
+    "einheit_stueck": "Stück pro Jahr",
+    "hinweis": "Alle Firmen, Werke und Zahlen sind frei erfunden und dienen nur als Übungsdaten."
+  },
+  "eintraege": [
+    {"jahr": 2022, "zulieferer": "Nordic Battery Systems GmbH", "werk": "Göteborg", "land": "Schweden", "region": "Europa", "produkt": "Batteriezellen", "produziert": 1850000, "kapazitaet": 2200000},
+    {"jahr": 2023, "zulieferer": "Nordic Battery Systems GmbH", "werk": "Göteborg", "land": "Schweden", "region": "Europa", "produkt": "Batteriezellen", "produziert": 2640000, "kapazitaet": 3000000},
+    {"jahr": 2024, "zulieferer": "Nordic Battery Systems GmbH", "werk": "Göteborg", "land": "Schweden", "region": "Europa", "produkt": "Batteriezellen", "produziert": 3120000, "kapazitaet": 3500000},
+    {"jahr": 2025, "zulieferer": "Nordic Battery Systems GmbH", "werk": "Göteborg", "land": "Schweden", "region": "Europa", "produkt": "Batteriezellen", "produziert": 3480000, "kapazitaet": 3500000},
+
+    {"jahr": 2022, "zulieferer": "Pacific Volt Components Ltd.", "werk": "Ningbo", "land": "China", "region": "Asien", "produkt": "Batteriemodule", "produziert": 4200000, "kapazitaet": 5000000},
+    {"jahr": 2023, "zulieferer": "Pacific Volt Components Ltd.", "werk": "Ningbo", "land": "China", "region": "Asien", "produkt": "Batteriemodule", "produziert": 5870000, "kapazitaet": 6500000},
+    {"jahr": 2024, "zulieferer": "Pacific Volt Components Ltd.", "werk": "Ningbo", "land": "China", "region": "Asien", "produkt": "Batteriemodule", "produziert": 7310000, "kapazitaet": 8000000},
+    {"jahr": 2025, "zulieferer": "Pacific Volt Components Ltd.", "werk": "Ningbo", "land": "China", "region": "Asien", "produkt": "Batteriemodule", "produziert": 8040000, "kapazitaet": 8500000},
+
+    {"jahr": 2022, "zulieferer": "Pacific Volt Components Ltd.", "werk": "Ulsan", "land": "Südkorea", "region": "Asien", "produkt": "Batteriezellen", "produziert": 2300000, "kapazitaet": 2800000},
+    {"jahr": 2023, "zulieferer": "Pacific Volt Components Ltd.", "werk": "Ulsan", "land": "Südkorea", "region": "Asien", "produkt": "Batteriezellen", "produziert": 2910000, "kapazitaet": 3300000},
+    {"jahr": 2024, "zulieferer": "Pacific Volt Components Ltd.", "werk": "Ulsan", "land": "Südkorea", "region": "Asien", "produkt": "Batteriezellen", "produziert": 3450000, "kapazitaet": 3800000},
+    {"jahr": 2025, "zulieferer": "Pacific Volt Components Ltd.", "werk": "Ulsan", "land": "Südkorea", "region": "Asien", "produkt": "Batteriezellen", "produziert": 3760000, "kapazitaet": 4000000},
+
+    {"jahr": 2022, "zulieferer": "Rhein-Ruhr Antriebstechnik AG", "werk": "Kassel", "land": "Deutschland", "region": "Europa", "produkt": "Elektromotoren", "produziert": 960000, "kapazitaet": 1200000},
+    {"jahr": 2023, "zulieferer": "Rhein-Ruhr Antriebstechnik AG", "werk": "Kassel", "land": "Deutschland", "region": "Europa", "produkt": "Elektromotoren", "produziert": 1310000, "kapazitaet": 1500000},
+    {"jahr": 2024, "zulieferer": "Rhein-Ruhr Antriebstechnik AG", "werk": "Kassel", "land": "Deutschland", "region": "Europa", "produkt": "Elektromotoren", "produziert": 1490000, "kapazitaet": 1600000},
+    {"jahr": 2025, "zulieferer": "Rhein-Ruhr Antriebstechnik AG", "werk": "Kassel", "land": "Deutschland", "region": "Europa", "produkt": "Elektromotoren", "produziert": 1575000, "kapazitaet": 1800000},
+
+    {"jahr": 2022, "zulieferer": "Rhein-Ruhr Antriebstechnik AG", "werk": "Debrecen", "land": "Ungarn", "region": "Europa", "produkt": "Leistungselektronik", "produziert": 1400000, "kapazitaet": 1800000},
+    {"jahr": 2023, "zulieferer": "Rhein-Ruhr Antriebstechnik AG", "werk": "Debrecen", "land": "Ungarn", "region": "Europa", "produkt": "Leistungselektronik", "produziert": 1820000, "kapazitaet": 2200000},
+    {"jahr": 2024, "zulieferer": "Rhein-Ruhr Antriebstechnik AG", "werk": "Debrecen", "land": "Ungarn", "region": "Europa", "produkt": "Leistungselektronik", "produziert": 2050000, "kapazitaet": 2400000},
+    {"jahr": 2025, "zulieferer": "Rhein-Ruhr Antriebstechnik AG", "werk": "Debrecen", "land": "Ungarn", "region": "Europa", "produkt": "Leistungselektronik", "produziert": 2290000, "kapazitaet": 2500000},
+
+    {"jahr": 2022, "zulieferer": "Great Lakes Powertrain Inc.", "werk": "Spring Hill", "land": "USA", "region": "Nordamerika", "produkt": "Elektromotoren", "produziert": 620000, "kapazitaet": 900000},
+    {"jahr": 2023, "zulieferer": "Great Lakes Powertrain Inc.", "werk": "Spring Hill", "land": "USA", "region": "Nordamerika", "produkt": "Elektromotoren", "produziert": 840000, "kapazitaet": 1100000},
+    {"jahr": 2024, "zulieferer": "Great Lakes Powertrain Inc.", "werk": "Spring Hill", "land": "USA", "region": "Nordamerika", "produkt": "Elektromotoren", "produziert": 1010000, "kapazitaet": 1200000},
+    {"jahr": 2025, "zulieferer": "Great Lakes Powertrain Inc.", "werk": "Spring Hill", "land": "USA", "region": "Nordamerika", "produkt": "Elektromotoren", "produziert": 1095000, "kapazitaet": 1250000},
+
+    {"jahr": 2022, "zulieferer": "Great Lakes Powertrain Inc.", "werk": "Monterrey", "land": "Mexiko", "region": "Nordamerika", "produkt": "Ladekabel & Wallboxen", "produziert": 780000, "kapazitaet": 1000000},
+    {"jahr": 2023, "zulieferer": "Great Lakes Powertrain Inc.", "werk": "Monterrey", "land": "Mexiko", "region": "Nordamerika", "produkt": "Ladekabel & Wallboxen", "produziert": 1050000, "kapazitaet": 1300000},
+    {"jahr": 2024, "zulieferer": "Great Lakes Powertrain Inc.", "werk": "Monterrey", "land": "Mexiko", "region": "Nordamerika", "produkt": "Ladekabel & Wallboxen", "produziert": 1240000, "kapazitaet": 1400000},
+    {"jahr": 2025, "zulieferer": "Great Lakes Powertrain Inc.", "werk": "Monterrey", "land": "Mexiko", "region": "Nordamerika", "produkt": "Ladekabel & Wallboxen", "produziert": 1330000, "kapazitaet": 1450000},
+
+    {"jahr": 2022, "zulieferer": "Kansai Thermal & Drive Co.", "werk": "Toyota-Stadt", "land": "Japan", "region": "Asien", "produkt": "Thermomanagement", "produziert": 1150000, "kapazitaet": 1400000},
+    {"jahr": 2023, "zulieferer": "Kansai Thermal & Drive Co.", "werk": "Toyota-Stadt", "land": "Japan", "region": "Asien", "produkt": "Thermomanagement", "produziert": 1390000, "kapazitaet": 1600000},
+    {"jahr": 2024, "zulieferer": "Kansai Thermal & Drive Co.", "werk": "Toyota-Stadt", "land": "Japan", "region": "Asien", "produkt": "Thermomanagement", "produziert": 1560000, "kapazitaet": 1700000},
+    {"jahr": 2025, "zulieferer": "Kansai Thermal & Drive Co.", "werk": "Toyota-Stadt", "land": "Japan", "region": "Asien", "produkt": "Thermomanagement", "produziert": 1640000, "kapazitaet": 1750000},
+
+    {"jahr": 2022, "zulieferer": "Atlas Mobility Parts S.A.", "werk": "Tanger", "land": "Marokko", "region": "Afrika", "produkt": "Kabelbäume (HV)", "produziert": 540000, "kapazitaet": 800000},
+    {"jahr": 2023, "zulieferer": "Atlas Mobility Parts S.A.", "werk": "Tanger", "land": "Marokko", "region": "Afrika", "produkt": "Kabelbäume (HV)", "produziert": 710000, "kapazitaet": 900000},
+    {"jahr": 2024, "zulieferer": "Atlas Mobility Parts S.A.", "werk": "Tanger", "land": "Marokko", "region": "Afrika", "produkt": "Kabelbäume (HV)", "produziert": 830000, "kapazitaet": 950000},
+    {"jahr": 2025, "zulieferer": "Atlas Mobility Parts S.A.", "werk": "Tanger", "land": "Marokko", "region": "Afrika", "produkt": "Kabelbäume (HV)", "produziert": 915000, "kapazitaet": 1000000},
+
+    {"jahr": 2022, "zulieferer": "Southern Cross Drivetrain Pty.", "werk": "Geelong", "land": "Australien", "region": "Ozeanien", "produkt": "Batteriemodule", "produziert": 380000, "kapazitaet": 600000},
+    {"jahr": 2023, "zulieferer": "Southern Cross Drivetrain Pty.", "werk": "Geelong", "land": "Australien", "region": "Ozeanien", "produkt": "Batteriemodule", "produziert": 470000, "kapazitaet": 650000},
+    {"jahr": 2024, "zulieferer": "Southern Cross Drivetrain Pty.", "werk": "Geelong", "land": "Australien", "region": "Ozeanien", "produkt": "Batteriemodule", "produziert": 520000, "kapazitaet": 700000},
+    {"jahr": 2025, "zulieferer": "Southern Cross Drivetrain Pty.", "werk": "Geelong", "land": "Australien", "region": "Ozeanien", "produkt": "Batteriemodule", "produziert": 565000, "kapazitaet": 720000},
+
+    {"jahr": 2022, "zulieferer": "Andes Lithium Processing SpA", "werk": "Antofagasta", "land": "Chile", "region": "Südamerika", "produkt": "Kathodenmaterial", "produziert": 210000, "kapazitaet": 300000},
+    {"jahr": 2023, "zulieferer": "Andes Lithium Processing SpA", "werk": "Antofagasta", "land": "Chile", "region": "Südamerika", "produkt": "Kathodenmaterial", "produziert": 285000, "kapazitaet": 380000},
+    {"jahr": 2024, "zulieferer": "Andes Lithium Processing SpA", "werk": "Antofagasta", "land": "Chile", "region": "Südamerika", "produkt": "Kathodenmaterial", "produziert": 340000, "kapazitaet": 420000},
+    {"jahr": 2025, "zulieferer": "Andes Lithium Processing SpA", "werk": "Antofagasta", "land": "Chile", "region": "Südamerika", "produkt": "Kathodenmaterial", "produziert": 375000, "kapazitaet": 440000}
+  ]
+}
